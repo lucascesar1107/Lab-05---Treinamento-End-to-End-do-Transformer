@@ -77,6 +77,6 @@ A curva de convergência é salva automaticamente em `loss_curve.png`.
 ---
 
 ## Referência
-```
+
 Vaswani et al. (2017). *Attention Is All You Need.* NeurIPS.
-```
+
